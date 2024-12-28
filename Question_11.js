@@ -1,4 +1,4 @@
-// *11. Write a program to print given format .
+// *11. Write a program to print given format.
 // *
 // ***
 // *****

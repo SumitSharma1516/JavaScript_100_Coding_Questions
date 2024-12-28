@@ -1,4 +1,4 @@
-// 22 Write a program accepts three numbers from user and calculate average of given three numbers.
+// 22. Write a program accepts three numbers from user and calculate average of given three numbers.
 
 function app(a,b,c)
 {

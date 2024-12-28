@@ -1,4 +1,4 @@
-// 23 Find sum of first , third and fifth digit of 6 digit number.
+// 23. Find sum of first , third and fifth digit of 6 digit number.
 
 function app(num)
 {
